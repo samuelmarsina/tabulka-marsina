@@ -1,0 +1,83 @@
+table, tr{
+    border-collapse: collapse;
+}
+
+td, th{
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    height: 30px;
+    width: 20px;
+}
+td, tr, th{
+    width: 100px;
+    height: 100px;
+}
+.samik, th{
+    empty-cells: hide;
+    width: 30px;
+    height: 20px;
+    border: 1px white;
+}
+.nekovy{
+    background-color: rgb(101, 250, 101);
+}
+.alkalické_kovy{
+    background-color: red;
+}
+.kovy_alk_zemin{
+    background-color: orange;
+}
+.polokovy{
+    background-color: rgb(143, 224, 224);
+}
+.halogeny{
+    background-color: aqua;
+}
+.vzácné_plyny{
+    background-color: yellow;
+}
+.přechodné_kovy{
+    background-color: plum;
+}
+.kovy{
+    background-color: rgb(133, 186, 255);
+}
+.mezera{
+    empty-cells: hide;
+    height: 15px;
+    border: 1px white;
+}
+.alkalické_kovy_{
+    background-color: red;
+    border: 1px white;
+}
+.kovy_alk_zemin_{
+    background-color: orange;
+    border: 1px white;
+}
+.přechodné_kovy_{
+    background-color: plum;
+    border: 1px white;
+}
+.kovy_{
+    background-color: rgb(133, 186, 255);
+    border: 1px white;
+}
+.polokovy_{
+    background-color: rgb(143, 224, 224);
+    border: 1px white;
+}
+.nekovy_{
+    background-color: rgb(101, 250, 101);
+    border: 1px white;
+}
+.halogeny_{
+    background-color: aqua;
+    border: 1px white;
+}
+.vzácné_plyny_{
+    background-color: yellow;
+    border: 1px white;
+}
